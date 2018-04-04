@@ -1,0 +1,6 @@
+---
+name: mindspheredemo
+instances: 1
+host: mindspheredemo-machkdev
+path: ./target/*.war
+memory: 1GB
